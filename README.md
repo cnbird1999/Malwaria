@@ -4,8 +4,11 @@ Execute Native DLL from .NET
 Based on https://github.com/Scavanger/MemoryModule.net
 
 Added Crypto Support
+
 Added Ability To Execute From Resource
+
 Added Ability to be launched via InstallUtil.exe
+
 
 Rough Prototype
 1. Create The DLL:
