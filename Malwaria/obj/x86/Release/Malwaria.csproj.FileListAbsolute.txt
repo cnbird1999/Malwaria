@@ -1,0 +1,3 @@
+D:\Malwaria\Malwaria\bin\Release\Malwaria.exe
+D:\Malwaria\Malwaria\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Malwaria\Malwaria\obj\x86\Release\Malwaria.exe

@@ -1,0 +1,5 @@
+D:\Malwaria\Malwaria\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Malwaria\Malwaria\bin\Debug\Malwaria.exe
+D:\Malwaria\Malwaria\bin\Debug\Malwaria.pdb
+D:\Malwaria\Malwaria\obj\x86\Debug\Malwaria.exe
+D:\Malwaria\Malwaria\obj\x86\Debug\Malwaria.pdb
